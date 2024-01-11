@@ -24,3 +24,9 @@ Para usar o aplicativo, basta instalar a versão mais recente no seu dispositivo
 Contribuições
 
 ### Contribuições são sempre bem-vindas! Se você tem alguma ideia, bug a reportar ou melhoria a sugerir, por favor, abra uma issue ou envie um pull request.
+
+
+
+## Imagem
+![image](https://github.com/AlexandreSantaAnnaSilva/Birthday-card/assets/112100416/70bdb1fa-5d4f-488f-b690-15125d00a748)
+
